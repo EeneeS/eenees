@@ -1,5 +1,7 @@
 ## Hi, my name is Niels 👋
 
+- 🔭 I’m currently working on 'twitch genie', a project where twitch moderators can interact with the broadcaster's stream
+
 <!--
 **EeneeS/eenees** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
